@@ -1,4 +1,4 @@
-<!--Wave animation CSS Style-->
+<!--Wave animation CSS Style
 <style>
 .wave {
   animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
@@ -18,6 +18,7 @@
 100% { transform: rotate( 0.0deg) }
 }
 </style>
+-->
 
 <h1 align="center">Hi there, I'm Diego Sanmartin <span class="wave">👋</span></h1>
 
