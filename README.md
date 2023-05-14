@@ -20,7 +20,7 @@
 </style>
 -->
 
-<h1 align="center">Hi there, I'm Diego Sanmartin <span class="wave">👋</span></h1>
+<h1 align="center">Hi there, I'm Diego Sanmartin <!--<span class="wave">👋</span>--></h1>
 
 <p align="center">
   <img src="assets/memoji-welcome.png" width="30%">
