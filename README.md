@@ -81,12 +81,12 @@
     <tr>
       <td>
         <a href="https://github.com/dsanmart/everywhere-reco">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=everywhere-reco" width="380" />
+          <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=everywhere-reco" width="380" />
         </a>
       </td>
       <td>
         <a href="https://github.com/dsanmart/RyanairDatathon">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=RyanairDatathon" width="380" />
+          <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=RyanairDatathon" width="380" />
         </a>
       </td>
     </tr>
@@ -102,18 +102,18 @@
     <tr>
       <td>
         <a href="https://github.com/dsanmart/IE_BETA_APP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=IE_BETA_APP" width="380" />
+          <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=IE_BETA_APP" width="380" />
         </a>
       </td>
       <td>
         <a href="https://github.com/dsanmart/soccer_database_website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=soccer_database_website" width="380" />
+          <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=soccer_database_website" width="380" />
         </a>
       </td>
       <tr>
         <td>
             <a href="https://github.com/dsanmart/recipeapp">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=recipeapp" width="380" />
+            <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=recipeapp" width="380" />
             </a>
         </td>
       </tr>
@@ -128,12 +128,12 @@
     <tr>
       <td>
         <a href="https://github.com/dsanmart/connect4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=connect4" width="380" />
+          <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=connect4" width="380" />
         </a>
       </td>
       <td>
         <a href="https://github.com/dsanmart/checkers_game">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsanmart&repo=checkers_game" width="380" />
+          <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/pin/?username=dsanmart&repo=checkers_game" width="380" />
         </a>
       </td>
     </tr>
@@ -146,10 +146,10 @@
 <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dsanmart&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+        <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api?username=dsanmart&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
       </td>
         <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsanmart" alt="Most Used Languages"/>
+        <img src="https://readme-stats-graphics-git-main-dsanmart.vercel.app/api/top-langs/?username=dsanmart" alt="Most Used Languages"/>
       </td>
     </tr>
 </table>
