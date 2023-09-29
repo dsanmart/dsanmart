@@ -9,7 +9,7 @@ on:
   schedule:
     - cron: '0 0 * * *'
 jobs:
-  execution:
+  robotics-club-leaderboard:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
