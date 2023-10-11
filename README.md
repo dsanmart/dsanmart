@@ -23,7 +23,7 @@
 <h1 align="center">Hi there, I'm Diego Sanmartin <!--<span class="wave">👋</span>--></h1>
 
 <p align="center">
-  <img src="assets/memoji-welcome.png" width="30%">
+  <img src="assets/memoji-welcome.png" width="20%">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <br>
 
-<div style="text-align:center"><a href="https://github.com/IERoboticsClub"><img style="border-radius:25%"src="./assets/roboticslogo.jpg" width="25%"  /></a></div>
+<div style="text-align:center"><a href="https://github.com/IERoboticsClub"><img style="border-radius:25%"src="./assets/roboticslogo.jpg" width="20%"  /></a></div>
 
 <br>
 
