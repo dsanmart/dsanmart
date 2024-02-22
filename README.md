@@ -1,4 +1,4 @@
-<!--Wave animation CSS Style
+Wave animation CSS Style
 <style>
 .wave {
   animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
@@ -18,9 +18,10 @@
 100% { transform: rotate( 0.0deg) }
 }
 </style>
--->
 
-<h1 align="center">Hi there, I'm Diego Sanmartin <!--<span class="wave">👋</span>--></h1>
+
+<h1 align="center">Hi there, I'm Diego Sanmartin <span class="wave">👋</span></h1>
+<p align="center">student developer, passionate about Computer Science & Artificial Intelligence.</p>
 <!--
 <p align="center">
   <img src="assets/memoji-welcome.png" width="20%">
@@ -32,7 +33,6 @@
   <a href="mailto:dsanmartin.ieu2020@student.ie.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">Motivated student, passionate about Computer Science & Artificial Intelligence.</p>
 
 ##  👨🏼‍💻 I’m currently working on
 
