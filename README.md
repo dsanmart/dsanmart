@@ -21,11 +21,11 @@
 -->
 
 <h1 align="center">Hi there, I'm Diego Sanmartin <!--<span class="wave">👋</span>--></h1>
-
+<!--
 <p align="center">
   <img src="assets/memoji-welcome.png" width="20%">
 </p>
-
+-->
 <p align="center">
   <a href="https://www.linkedin.com/in/dsanmart" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://www.diegosanmartin.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
