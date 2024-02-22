@@ -1,3 +1,4 @@
+<!--
 Wave animation CSS Style
 <style>
 .wave {
@@ -18,7 +19,7 @@ Wave animation CSS Style
 100% { transform: rotate( 0.0deg) }
 }
 </style>
-
+-->
 
 <h1 align="center">Hi there, I'm Diego Sanmartin <span class="wave">👋</span></h1>
 <p align="center">student developer, passionate about Computer Science & Artificial Intelligence.</p>
